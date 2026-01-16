@@ -1,5 +1,5 @@
 {
-  "name": "Customer Data App",
+  "name": "Customer JTL",
   "short_name": "Customer",
   "start_url": "./",
   "display": "standalone",
@@ -18,4 +18,5 @@
       "type": "image/svg+xml"
     }
   ]
+
 }
