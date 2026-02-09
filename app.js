@@ -1,7 +1,7 @@
 // ==========================================
 // KONFIGURASI API
 // ==========================================
-const API_URL = 'https://script.google.com/macros/s/AKfycbwgoRl2rbVAQSADzItDGyoNtIcPlGxXEqGRBow4nnu4wO_YBkn8JBZvUoZ4iEEkXQwsGg/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbzghuI7VaxZ9OnCqD8Qd9aaYIT8YUw7r0AYeAwpGOfYbD7TZwEAlUAV93m_Kj3xs5MiBw/exec';
 
 // ==========================================
 // STATE MANAGEMENT
@@ -312,6 +312,7 @@ if ('Notification' in window && Notification.permission === 'default') {
   Notification.requestPermission();
 
 }
+
 
 
 
